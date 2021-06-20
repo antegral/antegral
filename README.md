@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antegral&theme=default&show_icons=true&bg_color=30,49e9ff,9284ff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antegral&theme=default&show_icons=true&bg_color=30,88F1FF,A69AFF)
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antegral&theme=react)](https://wakatime.com/@antegral)
