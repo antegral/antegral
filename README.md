@@ -44,7 +44,7 @@ gantt
     Deployment          :b3, after b2, 7d
     section at-mw
     Planning            :done, c1, 2022-09-10, 2022-09-20
-    Development         :active, c2, after c1, 120d
+    Development         :active, c2, after c1, 90d
     Deployment          :c3, after c2, 7d
     section Rionskey (at-rk)
     Maintenance            :done, b1, 2022-05-19, 120d
