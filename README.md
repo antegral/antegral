@@ -26,3 +26,26 @@ Here are some ideas to get you started:
 
 ### Mainframe Server 🌱
 [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/fxyq.svg)](https://status.antegral.net/)
+
+
+### Schedule 🛠︎
+```mermaid
+gantt
+    title Development Schedule (Expected)
+    dateFormat  YYYY-MM-DD
+
+    section Server Reorganization
+    Planning            :done, a1, 2022-09-01, 2022-09-18
+    Buying Equipment    :active, a2, after a1, 90d
+    Deployment          :after a2, 21d
+    section at-up
+    Planning            :done, b1, 2022-08-27, 2022-09-17
+    Development         :active, b2, after b1, 120d
+    Deployment          :b3, after b2, 7d
+    section at-mw
+    Planning            :done, c1, 2022-09-10, 2022-09-20
+    Development         :active, c2, after c1, 120d
+    Deployment          :c3, after c2, 7d
+    section Rionskey (at-rk)
+    Maintenance            :done, b1, 2022-05-19, 120d
+```
