@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 |-----|-----|
 |![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/fxyq.svg)|![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/fy55.svg)|
 
-
+<!--
 ### Schedules 🛠︎
 ```mermaid
 gantt
@@ -38,6 +38,7 @@ gantt
     Buying Equipment    :active, a2, after a1, 90d
     Deployment          :after a2, 21d
 ```
+-->
 
 
 ### PGP Key 🔑
