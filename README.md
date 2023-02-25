@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ### Records 📝
-|Github Status|Coding Timer|
+|LeetCode|Coding Timer|
 |-----|-----|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antegral&theme=react&show_icons=true)|[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antegral&theme=react)](https://wakatime.com/@antegral)|
+|![](https://leetcard.jacoblin.cool/antegral?animation=true)|[![](https://github-readme-stats.vercel.app/api/wakatime?username=antegral&theme=react)](https://wakatime.com/@antegral)|
+
+
 
 ### Language and Frameworks ⚡
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>&nbsp;
