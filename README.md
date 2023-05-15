@@ -11,7 +11,7 @@
 ### Server Status 🌱
 |Mainframe|NAS|
 |-----|-----|
-|![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/fxyq.svg)|![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/fy55.svg)|
+|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/fxyq.svg)](https://status.antegral.net)|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/fy55.svg)](https://status.antegral.net)|
 
 <!--
 ### Schedules 🛠︎
