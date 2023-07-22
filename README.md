@@ -1,7 +1,7 @@
 ### 📝 Activity
 |Live Status (Discord)|GIthub Stats|
 |-----|-----|
-|[![](https://lanyard-profile-readme.vercel.app/api/844571376501522432?idleMessage=Committing%20𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴%20𝗰𝗿𝗶𝗺𝗲𝘀%20🐛&borderRadius=4px)](https://discord.com/users/844571376501522432)|[![](https://github-readme-stats-antegral.vercel.app/api/?username=antegral&theme=dark&hide_border=true&bg_color=1A1C1F&hide_title=true&text_color=F0F0F0&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|
+|[![](https://lanyard.cnrad.dev/api/844571376501522432?idleMessage=Committing%20𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴%20𝗰𝗿𝗶𝗺𝗲𝘀%20🐛&borderRadius=4px)](https://discord.com/users/844571376501522432)|[![](https://github-readme-stats-antegral.vercel.app/api/?username=antegral&theme=dark&hide_border=true&bg_color=1A1C1F&hide_title=true&text_color=F0F0F0&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|
 
 
 ### ⚡ Language and Frameworks
