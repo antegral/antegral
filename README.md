@@ -1,7 +1,8 @@
 ### Records 📝
-|LeetCode|GIthub Stats|
+|Live Status (Discord)|GIthub Stats|
 |-----|-----|
-|![](https://leetcard.jacoblin.cool/antegral?animation=true)|[![](https://github-readme-stats-antegral.vercel.app/api/?username=antegral&theme=dark&hide_border=true&bg_color=101010&hide_title=true&text_color=F0F0F0&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|
+|[![](https://lanyard-profile-readme.vercel.app/api/844571376501522432?idleMessage=Committing%20𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴%20𝗰𝗿𝗶𝗺𝗲𝘀%20🐛&borderRadius=4px)](https://discord.com/users/844571376501522432)|[![](https://github-readme-stats-antegral.vercel.app/api/?username=antegral&theme=dark&hide_border=true&bg_color=1A1C1F&hide_title=true&text_color=F0F0F0&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|
+
 
 ### Language and Frameworks ⚡
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>&nbsp;
