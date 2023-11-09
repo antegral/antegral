@@ -1,7 +1,7 @@
 ### 📝 Activity
 |Live Status (Discord)|GIthub Stats|
 |-----|-----|
-|[![](https://lanyard.cnrad.dev/api/844571376501522432?bg=0D1117&idleMessage=void%20*status;&borderRadius=4px)](https://discord.com/users/844571376501522432)|[![](https://github-readme-stats-antegral.vercel.app/api/?username=antegral&theme=react&hide_border=true&bg_color=0D1117&hide_title=true&text_color=F0F0F0&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|
+|[![](https://lanyard.cnrad.dev/api/844571376501522432?bg=0D1117&idleMessage=void*%20status;&borderRadius=4px)](https://discord.com/users/844571376501522432)|[![](https://github-readme-stats-antegral.vercel.app/api/?username=antegral&theme=react&hide_border=true&bg_color=0D1117&hide_title=true&text_color=F0F0F0&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|
 
 
 ### ⚡ Language and Frameworks
