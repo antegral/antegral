@@ -34,10 +34,6 @@ gantt
   ### Key Info
     pub   rsa4096 2022-11-01 [SC]
       FE4A0D75DECFDA9A302FCA725B30DAC88CB6890D
-    uid           [ultimate] SeongUk Moon (ANTEGRAL) <antegral@antegral.net>
-    sig 3        5B30DAC88CB6890D 2022-11-01  SeongUk Moon (ANTEGRAL) <antegral@antegral.net>
-    sub   rsa4096 2022-11-01 [E]
-    sig          5B30DAC88CB6890D 2022-11-01  SeongUk Moon (ANTEGRAL) <antegral@antegral.net>
     
    ### Key Block
     -----BEGIN PGP PUBLIC KEY BLOCK-----
