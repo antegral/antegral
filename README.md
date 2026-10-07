@@ -5,7 +5,7 @@
 
 
 ### ⚡ Skills
-> Updated at 26H1, sorted by interest
+> Updated at 26H2, sorted by interest
 
 Most recently, I have been working primarily on AI-related projects.
 
